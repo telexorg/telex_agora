@@ -7,6 +7,7 @@ toolchain go1.24.10
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.3.0
 	github.com/gin-gonic/gin v1.11.0
+	github.com/google/uuid v1.6.0
 	github.com/joho/godotenv v1.5.1
 )
 
